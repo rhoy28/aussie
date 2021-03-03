@@ -11,9 +11,5 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
 https://i.mjh.nz/au/Perth/tv.101204600461.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 #EXTINF:-1,tvg-logo="https://i.imgur.com/Wl0iGsD.png", Sky News Australia
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1,tvg-logo="https://i.mjh.nz/.images/tv.46.png", Al Jazeera
-https://i.mjh.nz/au/Sydney/tv.46.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
-
-#
-
-
+#EXTINF:-1,tvg-logo="https://i.mjh.nz/.images/tv.46.png", foxsports
+http://yjv-6-23-689.sub7.cachefly.xyz/live/uzbc50lo/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zLzIwMjEgMTo0NDowMyBBTSZoYXNoX3ZhbHVlPXVKZDJNMEpZam1IdDQ5cEhVcjRVbmc9PSZ2YWxpZG1pbnV0ZXM9MTIwJnN0cm1fbGVuPTEz
