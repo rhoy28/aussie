@@ -13,3 +13,17 @@ https://i.mjh.nz/au/Perth/tv.101204600461.m3u8|X-Forwarded-For=52.62.247.239&Use
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 #EXTINF:-1,tvg-logo="https://i.mjh.nz/.images/tv.46.png", foxsports
 http://yjv-6-23-689.sub7.cachefly.xyz/live/uzbc50lo/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zLzIwMjEgMTo0NDowMyBBTSZoYXNoX3ZhbHVlPXVKZDJNMEpZam1IdDQ5cEhVcjRVbmc9PSZ2YWxpZG1pbnV0ZXM9MTIwJnN0cm1fbGVuPTEz
+#EXTINF:-1 tvg-name="ABC Melbourne AU" tvg-id="" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="AUSTRALIA",ABC Melbourne AU
+https://c.mjh.nz/101002310231/
+#EXTINF:-1 tvg-name="ABC Perth AU" tvg-id="" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="AUSTRALIA",ABC Perth AU
+https://c.mjh.nz/3201026102E1/
+#EXTINF:-1 tvg-name="ABC Sydney AU" tvg-id="" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="AUSTRALIA",ABC Sydney AU
+https://c.mjh.nz/101002210221/
+#EXTINF:-1 tvg-name="ABC Comedy AU" tvg-id="" tvg-logo="http://i.mjh.nz/.images/tv.abc2.png" group-title="AUSTRALIA",ABC Comedy
+https://c.mjh.nz/abc2/
+#EXTINF:-1 tvg-name="ABC Kids AU" tvg-id="" tvg-logo="https://i.mjh.nz/.images/tv.abckids.png" group-title="AUSTRALIA",ABC Kids Australia
+https://c.mjh.nz/101002210222/
+#EXTINF:-1 tvg-name="ABC Me" tvg-id="" tvg-logo="https://i.mjh.nz/.images/tv.101002210224.png" group-title="AUSTRALIA",ABC Me
+https://c.mjh.nz/101002210224/
+#EXTINF:-1 tvg-name="ABC News Australia" tvg-id="abcnews.com.au" tvg-logo="https://i.imgur.com/rdkvOCh.png" group-title="AUSTRALIA",ABC News Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
