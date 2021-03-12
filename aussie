@@ -17,12 +17,6 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://liveprodapnortheast.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-440-1_live.m3u8
 #EXTINF:-1 tvg-name="Bloomberg+ 4K" tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/idRFfhY.png",Bloomberg+ 4K
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Sky 1 Racing" tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/QweV0BP.png",Sky 1 Racing
-https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
-#EXTINF:-1 tvg-name="Sky 2" tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/7MkX0Ct.png",Sky 2 Racing
-https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
-#EXTINF:-1,tvg-logo="https://i.imgur.com/1M4zMdC.png", racing.com
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
 #EXTINF:-1 tvg-name="ABC Sydney AU" tvg-id="" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="AUSTRALIA",ABC ONE AU
 https://c.mjh.nz/101002210221/
 #EXTINF:-1 tvg-name="ABC Comedy AU" tvg-id="" tvg-logo="http://i.mjh.nz/.images/tv.abc2.png" group-title="AUSTRALIA",ABC Comedy
@@ -33,8 +27,10 @@ https://c.mjh.nz/101002210222/
 https://c.mjh.nz/101002210224/
 #EXTINF:-1 tvg-name="Action Hollywood Movies" tvg-id="" tvg-logo="https://i.imgur.com/wnlzC0w.jpg" group-title="AUSTRALIA",Action Hollywood Movies
 https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Horse and Country" tvg-id="" tvg-logo="https://i.imgur.com/r5Ip3P0.png" group-title="AUSTRALIA",Horse and Country
-https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Movies" tvg-logo="https://i.imgur.com/eQKFgpa.png" group-title="UK",Comedy Movies
+https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Drama" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="UK",Drama
+https://rakuten-tvshows-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Action Movies" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="UK",Action Movies
 https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Family Movies" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="UK",Family Movies
